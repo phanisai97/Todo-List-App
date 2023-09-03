@@ -5,10 +5,7 @@
   </a>
 </div>
 
-# Udemy Project: MERN Todo-List
 
-This is a hands-on project from the Udemy course - [The Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/) by Colt Steele. Refactored using the React-Redux in ES6/ES7 syntax instead of jQuery. You can find this jQuery version [here](https://github.com/Hsins/udemy_jQuery-Todo-List).
-  
 # Demo
 
 <div align="center">
@@ -88,10 +85,4 @@ $ cd ..
 $ npm run dev
 ```
 
-# More Information
 
-All the notes I took in [Markdown](https://daringfireball.net/projects/markdown/syntax) (.md) format. You can find them in my [Udemy-Notes](https://github.com/Hsins/Udemy-Notes) repository. The note for this course is [here](https://hsins.github.io/Udemy-Notes/The%20Advanced%20Web%20Developer%20Bootcamp/).
-
-# License
-
-Licensed under the MIT License, Copyright © 2017-present Hsins.
