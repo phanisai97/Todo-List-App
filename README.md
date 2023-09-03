@@ -1,16 +1,4 @@
-<div align="right">
-  <img src="https://img.shields.io/badge/Completion-100%25-blue.svg" />
-  <a href="https://github.com/Hsins/udemy_MERN-Todo-List/blob/master/LICENSE" alt="License">
-    <img src="https://img.shields.io/github/license/Hsins/udemy_MERN-Todo-List.svg" />
-  </a>
-</div>
 
-
-# Demo
-
-<div align="center">
-  <img src="demo/demo.gif" />
-</div>
 You can run the demo on your local machine, please follow the instructions in [Getting Started](#getting-started).
 
 # Features
