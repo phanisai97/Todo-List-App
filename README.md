@@ -11,8 +11,7 @@
 <div align="center">
   <img src="demo/demo.gif" />
 </div>
-
-You can see a complete working example [here](https://hsins-mern-todolist.herokuapp.com/). Or you can run the demo on your local machine, please follow the instructions in [Getting Started](#getting-started).
+You can run the demo on your local machine, please follow the instructions in [Getting Started](#getting-started).
 
 # Features
 
